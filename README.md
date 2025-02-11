@@ -1,10 +1,10 @@
-## Hey There! 👋 , I am Prasad Madushanka Dambure Liyanage
+# Hey There! 👋 , I am Prasad Madushanka Dambure Liyanage
 
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prasadmadhusanka&label=Profile%20views&color=0e75b6&style=flat" alt="prasadmadushanka" /> </p>
 <br />
 
-# Connect with me 📫 :
+### Connect with me 📫 :
 <p align="left">
 <a href="" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="prasadmadushanka_website" />
