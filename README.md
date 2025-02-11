@@ -1,9 +1,7 @@
 ## Hey There! 👋 , I am Prasad Madushanka Dambure Liyanage
 
 <br />
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Prasadmadhusanka&label=Profile%20Views&color=gray&style=for-the-badge)
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prasadmadhusanka&label=Profile%20views&color=0e75b6&style=flat" alt="prasadmadushanka" /> </p>
 <br />
 <p align="left">
 <a href="" target="blank">
