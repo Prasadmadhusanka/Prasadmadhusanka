@@ -1,8 +1,8 @@
 ## Hey There! 👋 , I am Prasad Madushanka Dambure Liyanage
 
 <p align="center">
- <a href="" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=globe&logoColor=white" alt="prasadmadushanka_website" />
+<a href="" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="prasadmadushanka_website" />
  </a>
  <a href="https://github.com/Prasadmadhusanka" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="prasadmadushanka_github" />
