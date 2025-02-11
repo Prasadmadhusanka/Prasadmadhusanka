@@ -1,8 +1,8 @@
 # Hey There! 👋 , I am Prasad Madushanka Dambure Liyanage
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prasadmadhusanka&label=Profile%20views&color=0e75b6&style=flat" alt="prasadmadushanka" /> </p>
-
 ### 🚀 GIS Analyst | 🌍 WebGIS Developer | 💻 Front-End Developer
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prasadmadhusanka&label=Profile%20views&color=0e75b6&style=flat" alt="prasadmadushanka" /> </p>
 
 ### Connect with me 📫 :
 <p align="left">
