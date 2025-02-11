@@ -1,5 +1,9 @@
 ## Hey There! 👋 , I am Prasad Madushanka Dambure Liyanage
-<hr style="border: 1px solid gray; margin: 20px 0;">
+
+<br />
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Prasadmadhusanka&label=Profile%20Views&color=gray&style=for-the-badge)
+</p>
 <br />
 <p align="left">
 <a href="" target="blank">
@@ -16,7 +20,7 @@
  </a>
 </p>
 <br />
-
+<hr style="border: 1px solid gray; margin: 20px 0;">
 
 <!--
 **Prasadmadhusanka/Prasadmadhusanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
