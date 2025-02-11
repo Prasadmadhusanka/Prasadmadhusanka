@@ -1,6 +1,7 @@
 ## Hey There! 👋 , I am Prasad Madushanka Dambure Liyanage
-
-<p align="center">
+<hr style="border: 1px solid gray; margin: 20px 0;">
+<br />
+<p align="left">
 <a href="" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="prasadmadushanka_website" />
  </a>
