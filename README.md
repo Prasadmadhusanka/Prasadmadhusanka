@@ -25,6 +25,5 @@
 
 ## Most Used Languages 📊
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadmadhusanka&theme=merko&hide=html,css" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadmadhusanka&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadmadhusanka&layout=compact" />
 </p>
