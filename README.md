@@ -27,4 +27,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadmadhusanka&layout=compact" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasadmadhusanka&show_icons=true&bg_color=00000000)
+![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasadmadhusanka&show_icons=true&theme=transparent)
