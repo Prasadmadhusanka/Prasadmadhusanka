@@ -6,7 +6,7 @@
 
 #### Connect with me 📫 :
 <p align="left">
-<a href="https://www.prasadmadushanka.com" target="blank">
+<a href="prasadmadushanka.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="prasadmadushanka_website" />
  </a>
  <a href="https://github.com/Prasadmadhusanka" target="_blank">
