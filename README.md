@@ -1,6 +1,6 @@
 ## Hey There! 👋, I am Prasad Madushanka Dambure Liyanage
 
-#### 🌍 GIS Analyst | 💻 WebGIS Developer | 🚀 EASA Licenced Drone Pilot|
+#### 🌍 GIS Analyst | 💻 WebGIS Developer | 🚀 EASA Licenced Drone Pilot
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prasadmadhusanka&label=Profile%20views&color=0e75b6&style=flat" alt="prasadmadushanka" /> </p>
 
