@@ -53,30 +53,44 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-0E7C61?style=for-the-badge&logo=geopandas&logoColor=white) 
 ![Shapely](https://img.shields.io/badge/Shapely-6C3483?style=for-the-badge&logo=python&logoColor=white) 
-![Rasterio](https://img.shields.io/badge/Rasterio-008080?style=for-the-badge&logo=python&logoColor=white) 
+![Rasterio](https://img.shields.io/badge/Rasterio-008080?style=for-the-badge&logo=python&logoColor=white)
+![Turf.js](https://img.shields.io/badge/Turf.js-1C7B9C?style=for-the-badge&logo=javascript&logoColor=white) 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+
  
 #### 📊 Visualizations + BI Tools 📉
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white) 
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white) 
 ![Recharts](https://img.shields.io/badge/Recharts-FF5733?style=for-the-badge&logo=react&logoColor=white)
-![Turf.js](https://img.shields.io/badge/Turf.js-1C7B9C?style=for-the-badge&logo=javascript&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-4A90E2?style=for-the-badge&logo=seaborn&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
+
+#### 🔄 ETL + Big Data 🗄️ 
+![FME Desktop](https://img.shields.io/badge/FME%20Desktop-FCCF00?style=for-the-badge&logo=fme&logoColor=black) 
+![ArcGIS Model Builder](https://img.shields.io/badge/ArcGIS%20Model%20Builder-2C7AC3?style=for-the-badge&logo=esri&logoColor=white) 
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+ 
+#### ☁️ Cloud Services + DevOps Tools + Platforms 🛠️
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Mac](https://img.shields.io/badge/Mac-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 
 #### 🤝 Agile Environments 📅
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white) 
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-
-#### 🔄 ETL + Big Data + Automation 🤖 
-
- 
-
-#### ☁️ Cloud Services + DevOps Tools + Platforms 🛠️ 
 
 ***
 
