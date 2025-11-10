@@ -35,6 +35,7 @@
 
 #### ⚙️ Backend Web Development + Servers 🖧
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![GeoServer](https://img.shields.io/badge/GeoServer-4D8FAC?style=for-the-badge&logo=geoserver&logoColor=white)
 
@@ -73,7 +74,7 @@
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
  
-#### ☁️ Cloud Services + DevOps Tools + Platforms 🛠️
+#### ☁️ Cloud Services + DevOps Tools + OS 🛠️
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
