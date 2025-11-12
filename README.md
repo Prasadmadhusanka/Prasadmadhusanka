@@ -33,6 +33,7 @@
 ![Leaflet.js](https://img.shields.io/badge/Leaflet.js-48C774?style=for-the-badge&logo=leaflet&logoColor=white) 
 ![OpenLayers](https://img.shields.io/badge/OpenLayers-0E7C75?style=for-the-badge&logo=openlayers&logoColor=white)
 
+
 #### ⚙️ Backend Web Development + Servers 🖧
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
@@ -70,22 +71,16 @@
 
 #### 🔄 ETL + Big Data 🗄️ 
 ![FME Desktop](https://img.shields.io/badge/FME%20Desktop-FCCF00?style=for-the-badge&logo=fme&logoColor=black) 
-![ArcGIS Model Builder](https://img.shields.io/badge/ArcGIS%20Model%20Builder-2C7AC3?style=for-the-badge&logo=esri&logoColor=white) 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
  
-#### ☁️ Cloud Services + DevOps Tools + OS 🛠️
+#### ☁️ Cloud Services + DevOps Tools 🛠️
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Mac](https://img.shields.io/badge/Mac-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 
 #### 🤝 Agile Environments 📅
