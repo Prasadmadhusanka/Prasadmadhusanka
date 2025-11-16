@@ -1,6 +1,7 @@
 ## Hey There! 👋, I am Prasad Madushanka Dambure Liyanage
 
-#### 🌍 GIS Specialist | 💻 Full Stack WebGIS Developer | 🗺️ Web Mapping • 📊 Spatial Analysis • 🌐 Geo-enabled Web Applications
+#### 🌍 GIS Specialist | 💻 Full Stack WebGIS Developer
+#### 🗺️ Web Mapping • 📊 Spatial Analysis • 🌐 Geo-enabled Web Applications
 
 ***
 
@@ -8,19 +9,20 @@
 
 #### Connect with me 📫 :
 <p align="left">
-<a href="http://prasadmadushanka.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="prasadmadushanka_website" />
- </a>
- <a href="https://github.com/Prasadmadhusanka" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="prasadmadushanka_github" />
- </a>
-<a href="https://www.linkedin.com/in/prasadmadushanka13/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="prasadmadushanka_linkedin"/>
- </a>
-<a href="https://x.com/prasadmadu13" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="prasadmadushanka_x" />
- </a>
+  <a href="http://prasadmadushanka.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/github_readme/website.png" height="30" alt="website"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Prasadmadhusanka" target="_blank">
+    <img src="https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/github_readme/gitHub.png" height="30" alt="github"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/prasadmadushanka13/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/github_readme/LinkedIn.png" height="30" alt="linkedin"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.xing.com/profile/PrasadMadushankaDauglas_DambureLiyanage/web_profiles?nwt_nav=profile_icon&sc_o=navigation_profile_icon" target="_blank">
+    <img src="https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/github_readme/xing.png" height="30" alt="xing"/>
+  </a>
 </p>
+
 
 ***
 
