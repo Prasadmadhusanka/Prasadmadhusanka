@@ -87,9 +87,13 @@
 
 
 ***
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prasadmadhusanka&theme=github" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prasadmadhusanka&theme=github" height="200" />
+</div>
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadmadhusanka&layout=compact&cache_seconds=10800" />
-</p>
 
-![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasadmadhusanka&show_icons=true&theme=transparent)
+
+
+
+
