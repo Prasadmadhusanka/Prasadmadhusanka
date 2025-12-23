@@ -21,6 +21,11 @@
 </div>
 
 ***
+#### 🖥️ Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 #### 🌐 Frontend Web Development + Web Mapping 🗺️
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
@@ -55,7 +60,6 @@
 ![Shapely](https://img.shields.io/badge/Shapely-6C3483?style=for-the-badge&logo=python&logoColor=white) 
 ![Rasterio](https://img.shields.io/badge/Rasterio-008080?style=for-the-badge&logo=python&logoColor=white)
 ![Turf.js](https://img.shields.io/badge/Turf.js-1C7B9C?style=for-the-badge&logo=javascript&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
 
  
 #### 📊 Visualizations + BI Tools 📉
