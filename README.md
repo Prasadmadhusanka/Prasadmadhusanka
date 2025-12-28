@@ -29,6 +29,7 @@
 
 #### 🌐 Frontend Web Development + Web Mapping 🗺️
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Leaflet.js](https://img.shields.io/badge/Leaflet.js-48C774?style=for-the-badge&logo=leaflet&logoColor=white) 
 ![OpenLayers](https://img.shields.io/badge/OpenLayers-0E7C75?style=for-the-badge&logo=openlayers&logoColor=white)
@@ -83,6 +84,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 #### 🤝 Agile Environments 📅
